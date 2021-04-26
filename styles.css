@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+}
+
+.container {
+  background-color: rgb(57, 61, 61);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-star {
+  font-size: 5em;
+  display: inline-block;
+  margin-right: 0.3em;
+  color: rgb(200, 228, 77);
+  cursor: pointer;
+}
+
+.green {
+  color: rgb(71, 110, 71);
+}
+
+.yelowgreen {
+  color: rgb(163, 243, 3);
+}
